@@ -1,0 +1,18 @@
+{
+  "name": "json-query",
+  "version": "0.0.1",
+  "description": "mongodb-like json queries against javascript objects",
+  "author": "Matt Vella <matt@mcvella.com>",
+  "homepage": "http://mcvella.github.com/json-query/",
+  "directories": {"lib": "./lib"},
+  "licenses": ["MIT"],
+  "dependencies": {
+    "async": "0.2.9",
+    "winston": "0.7.2",
+    "lodash": "2.4.1"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "http://github.com/mcvella/json-query.git"
+  }
+}
