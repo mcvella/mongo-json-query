@@ -1,5 +1,5 @@
 {
-  "name": "json-query",
+  "name": "mongo-json-query",
   "version": "0.0.1",
   "main": "./lib/mongo-json-query.js",
   "description": "mongodb-like json queries against javascript objects",
