@@ -4,7 +4,7 @@
   "main": "./lib/mongo-json-query.js",
   "description": "mongodb-like json queries against javascript objects",
   "author": "Matt Vella <matt@mcvella.com>",
-  "homepage": "http://mcvella.github.com/json-query/",
+  "homepage": "http://mcvella.github.com/mongo-json-query/",
   "directories": {"lib": "./lib"},
   "licenses": ["MIT"],
   "dependencies": {
@@ -14,6 +14,6 @@
   },
   "repository": {
     "type" : "git",
-    "url" : "http://github.com/mcvella/json-query.git"
+    "url" : "http://github.com/mcvella/mongo-json-query.git"
   }
 }
